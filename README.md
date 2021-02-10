@@ -3,7 +3,7 @@
 ## 中文：
     基本完美了。
     ### 能正常工作的
-        WiFI（Realtek USB WiFI，需要找chr1111的USB-WiFi-Adapter并安装）
+        WiFI（Realtek USB WiFI，需要找chris1111的USB-WiFi-Adapter并安装）
         有线连接
         USB插口
         声卡（后面板可用，前面版不知道（主要是我前面板的坏掉了）
