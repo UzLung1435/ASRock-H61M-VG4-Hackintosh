@@ -7,7 +7,7 @@
         有线连接
         USB插口
         声卡（后面板可用，前面版不知道（主要是我前面板的坏掉了）
-        独显（我用的GTX760~~如果需要HD2500的话得慢慢改~~），HDMI 4K输出正常，Metal版本1.0
+        独显（我用的GTX760），HDMI 4K输出正常，Metal版本1.0
     ### 需要自己填写的
         SMBIOS
     ### 出现问题的
@@ -22,7 +22,7 @@
         LAN
         USB Ports
         Audio Devices
-        Geforce GTX760 ~~I might deal with HD2500 Only~~.
+        Geforce GTX760
     ### Issues
         Intel Boost.
         If you have 2 hard disks, you might not see the disk of Windows.
